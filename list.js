@@ -1,6 +1,8 @@
-//const unorderedList = document.querySelector("ul");
+// this below line can be used when we have created an element in the html page
+// and then we wan to store the reference we can do as follows
+// const unorderedList = document.querySelector("ul");
 
-//stored the reference of the body and stored it in the variable
+//Stored the reference of the body and stored it in the variable
 //created the element ul and appending it to the body
 const body = document.querySelector("body");
 const unorderedList = document.createElement("ul");
